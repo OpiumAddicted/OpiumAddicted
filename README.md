@@ -1,1 +1,1 @@
-![https://reze.cc/](https://reze.cc/thumbnail.png)
+[![reze.cc](thumbnail.png)](https://reze.cc/)
